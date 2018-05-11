@@ -13,7 +13,7 @@ import javax.swing.JPanel;
  */
 public class GameHandler {
 
-/* Stores the memory cards that are use in the game */  
+/* Stores the memory cards that are used in the game */  
 private ArrayList<MemoryCard> memoryCards = new ArrayList<MemoryCard>();
   
   private int previousCardId = -1;
